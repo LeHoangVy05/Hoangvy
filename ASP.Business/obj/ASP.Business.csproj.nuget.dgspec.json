@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Business\\ASP.Business.csproj": {}
+  },
+  "projects": {
+    "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Business\\ASP.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Business\\ASP.Business.csproj",
+        "projectName": "ASP.Business",
+        "projectPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Business\\ASP.Business.csproj",
+        "packagesPath": "C:\\Users\\lehoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lehoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.DataAccess\\ASP.DataAccess.csproj": {
+                "projectPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.DataAccess\\ASP.DataAccess.csproj"
+              },
+              "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj": {
+                "projectPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.DataAccess\\ASP.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.DataAccess\\ASP.DataAccess.csproj",
+        "projectName": "ASP.DataAccess",
+        "projectPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.DataAccess\\ASP.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\lehoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lehoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj": {
+                "projectPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj",
+        "projectName": "ASP.Model",
+        "projectPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\ASP.Model.csproj",
+        "packagesPath": "C:\\Users\\lehoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Thiết kế Phần mềm\\ThietKePM_LeHoangVy\\ASP.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lehoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|d:\\thi\u1EBFt k\u1EBF ph\u1EA7n m\u1EC1m\\thietkepm_lehoangvy\\thietkepm_lehoangvy\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB3E91C-0D71-47E5-B2C4-71D617B25EC1}|ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy.csproj|solutionrelative:thietkepm_lehoangvy\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T01:24:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:54:14.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:52:32.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Program.cs",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Program.cs",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Program.cs",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:42:57.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T08:37:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Services\\ISmsSender.cs",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Services\\ISmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:08:01.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Services\\IEmailSender.cs",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:07:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T07:38:32.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T07:31:53.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThietKePM_LeHoangVy\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Thi\u1EBFt k\u1EBF Ph\u1EA7n m\u1EC1m\\ThietKePM_LeHoangVy\\ThietKePM_LeHoangVy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThietKePM_LeHoangVy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:31:39.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

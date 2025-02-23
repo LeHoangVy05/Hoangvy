@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThietKePM_LeHoangVy.props" />
+</Project>
